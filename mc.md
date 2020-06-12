@@ -1,11 +1,9 @@
-# Minecraft Server
-
+---
+layout: page
+title: "Minecraft Server"
+permalink: /mc/
+---
 ## Address: mc.freyc.xyz
-
-## Hours of Operation
-
-* I don't like to run the server when I'm asleep, since it's in my room.
-* On at ~10AM, off at 1AM.
 
 ## Current Modpacks/Plugins
 
