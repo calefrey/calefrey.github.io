@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Minecraft Server"
 description: mc.freyc.xyz
 permalink: /mc/
