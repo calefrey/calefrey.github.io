@@ -1,7 +1,6 @@
 ---
 title: "Minecraft Server"
 description: mc.freyc.xyz
-permalink: /mc/
 ---
 
 ## Current Modpacks/Plugins
