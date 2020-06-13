@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Minecraft Server"
-permalink: /mc/
+description: mc.freyc.xyz
 ---
-## Address: mc.freyc.xyz
 
 ## Current Modpacks/Plugins
 
@@ -17,4 +16,4 @@ permalink: /mc/
     * If you found something cool and would like a named warp let a mod know
   * You can request to teleport to other players using `/tpa <playername>`. The other person must accept your request using `/tpaccept` ( or `/tpdeny` to reject).
 
-This is my first time dealing with EssentialsX and permissions so if something should work and it doesn't, DM me on discord.
+* If something doesn't work like it should, let me know.
