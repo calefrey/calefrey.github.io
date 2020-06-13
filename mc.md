@@ -8,6 +8,7 @@ permalink: /mc/
 
 * MCMMO
   * Wiki available [here](https://mcmmo.org/wiki/Main_Page)
+  * One noteworthy addition is that you can repair items using a block of iron as an anvil. It will consume a block of the material that the tool/armor is made from
 * EssentialsX
   * Access your Ender Chest at any time with `/ec`
   * Teleport home to your bed with `/home`
