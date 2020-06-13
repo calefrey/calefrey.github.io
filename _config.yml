@@ -1,4 +1,4 @@
-remote_theme: h01000110/windows-95
+theme: jekyll-theme-slate
 title: Caleb Frey
 github:
     is_project_page: false
