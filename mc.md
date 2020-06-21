@@ -23,5 +23,6 @@ permalink: /mc/
 ## DREHMAL v2: PRIMΩRDIAL - 12k x 12k Survival/Adventure Map
 
 * See [here](https://www.planetminecraft.com/project/drehmal-v2-prim-rdial-12k-x-12k-survival-adventure-map/) for details
-* You'll need Optifine for the custom shaders, the resource packs should download automatically.
-* Do not level up a Cartographer Villager, it'll break the game
+* A custom Resource pack is required, which I have made available [here](https://github.com/calefrey/calefrey.github.io/blob/master/static/resource-packs/drehmal-v2.zip?raw=true).
+Download the zip and place it in the resource packs folder, located at `%AppData%\.minecraft\resourcepacks`
+* You need to install optifine for everything to work right. I find that `OptiFine 1.15.2 HD U G1 pre29` from the [Optifine Download Page](https://optifine.net/downloads) works better than the `-pre30` version
