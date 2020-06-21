@@ -4,7 +4,7 @@ description: mc.freyc.xyz
 permalink: /mc/
 ---
 
-## Current Modpacks/Plugins
+## McMMO/Vanilla Server
 
 * MCMMO
   * Wiki available [here](https://mcmmo.org/wiki/Main_Page)
@@ -19,3 +19,9 @@ permalink: /mc/
 * ChestCleaner Chest Sorting
   * While looking at a chest/inventory block, `/cleaninventory` or `/cinv`
 * If something doesn't work like it should, let me know.
+
+## DREHMAL v2: PRIMΩRDIAL - 12k x 12k Survival/Adventure Map
+
+* See [here](https://www.planetminecraft.com/project/drehmal-v2-prim-rdial-12k-x-12k-survival-adventure-map/) for details
+* You'll need Optifine for the custom shaders, the resource packs should download automatically.
+* Do not level up a Cartographer Villager, it'll break the game
